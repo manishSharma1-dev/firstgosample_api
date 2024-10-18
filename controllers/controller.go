@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const ConnectionString = "mongodb://127.0.0.1:27017/"
+const ConnectionString = "Your Connection String"
 const Dbname = "Gopractice"
 const Collname = "dbpraccoll"
 
